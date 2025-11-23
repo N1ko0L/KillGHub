@@ -1,7 +1,7 @@
 # Restart GHub quickly with fun effects
 
 ## Overview
-Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task Manager and that was annoying, but now it's fun
+Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task Manager and that was annoying, but now it's fun & fast.
 
 ---
 
@@ -39,9 +39,9 @@ Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task 
 ## Usage
 
 1. Double-click the batch file or run it from a terminal.
-2. Press Enter 
-3. Wait and listen to the funny sounds  
-4. Go have fun instead of fixing a crappy program from a billion dollars company 
+2. Press Enter.
+3. Wait and listen to the funny sounds.
+4. Go have fun instead of fixing a crappy program from a billion dollars company.
 
 > **Note:** The sound may be extremely loud, sorry lol.
 
@@ -57,9 +57,9 @@ Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task 
 
 ## Safety Notes
 
-- May destroy your earing
-- You may die from laughter
-- You may start to enjoy the GHub software
+- May destroy your earing.
+- You may die from laughter.
+- You may start to enjoy the GHub software.
 
 ---
 ## Support
