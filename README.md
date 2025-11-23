@@ -11,21 +11,27 @@ Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task 
    The script kills `lghub.exe`, `lghub_agent.exe`, and `lghub_updater.exe` to ensure no processes are running.
 
 2. **Play stupid sounds effects**
+   
    May get extremely annoying after a few times 
    
 4. **Restarts G Hub**
+   
    Yeah that pretty much it
 
 6. **Wait for the interface to fully load**
+   
    For 8 juicy seconds 
 
 5. **Kill the program and put it in background**
+   
    Because no one cares about GHub actually, i just want my G920 to work
 
 7. **Thanks you for using it**
+   
    What a good boy !
 
 9. **Kill it self and the media player**
+    
     So you don't have to do anything !
 ---
 
