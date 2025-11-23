@@ -13,9 +13,10 @@ echo \____/^|_^| ^|_^|\__,_^|\__^|\___/^| .__/ \____/_^| ^|_^|\__,_^|_.__/
 echo                             ^| ^|
 echo                             ^|_^|
 echo.
-echo By headshotdomain.net
+echo By DreAdeDcoRpSE from headshotdomain.net
 echo.
-pause "Press ENTER to KILL"
+echo Press ENTER to KILL
+pause >null
 echo.
 echo Shutting down GHub
 taskkill /f /im lghub.exe >nul 2>&1
@@ -85,4 +86,5 @@ echo Come
 echo Again...
 timeout /t 2 >nul
 taskkill /f /im wmplayer.exe >nul 2>&1
+
 exit
