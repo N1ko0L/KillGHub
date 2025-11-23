@@ -1,9 +1,7 @@
-# G Hub Discord Integration Disable Script
+# Restart GHub quickly with fun effects
 
 ## Overview
-This is a simple Windows batch script designed to **automatically disable Logitech G Hub’s integration with Discord**.  
-
-Logitech G Hub often ignores its own “disable Discord integration” settings and can prompt users repeatedly to connect to Discord. This script modifies the internal G Hub configuration file and prevents it from asking to connect to Discord, while safely restarting G Hub afterward.
+Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task Manager and that was annoying, but now it's fun
 
 ---
 
@@ -12,36 +10,33 @@ Logitech G Hub often ignores its own “disable Discord integration” settings 
 1. **Shuts down G Hub completely**  
    The script kills `lghub.exe`, `lghub_agent.exe`, and `lghub_updater.exe` to ensure no processes are running before making changes.
 
-2. **Locates the Discord integration config**  
-   The relevant configuration file is located at:  
-   `%LocalAppData%\LGHUB\integrations\applet_discord\config.json`
+2. **Play stupid sounds effects**
+   May get extremely annoying after a few times 
    
-4. **Removes the read-only attribute if set**  
-Ensures the script can modify the JSON configuration file.
+4. **Restarts G Hub**
+   Yeah that pretty much it
 
-5. **Checks and updates the “enabled” setting**  
-- If `"enabled": false` is already set, it reports it.  
-- Otherwise, it replaces `"enabled": true` with `"enabled": false` in the JSON file.
+6. **Wait for the interface to fully load**
+   For 8 juicy seconds 
 
-5. **Restores the read-only attribute**  
-Prevents G Hub from automatically re-enabling the integration until manually changed.
+5. **Kill the program and put it in background**
+   Because no one cares about GHub actually, i just want my G920 to work
 
-6. **Waits safely and provides a countdown**  
-Pauses are included to allow G Hub’s backend services to fully shut down and catch up, preventing errors during restart. A 10-second countdown is displayed for visual feedback.
+7. **Thanks you for using it**
+   What a good boy !
 
-7. **Restarts G Hub**  
-Launches the G Hub application after making the changes.
-
+9. **Kill it self and the media player**
+    So you don't have to do anything !
 ---
 
 ## Usage
 
-1. Close any G Hub windows (optional, as the script will force close them).  
-2. Double-click the batch file or run it from a terminal.  
-3. Wait for the countdown and confirmation messages.  
-4. G Hub will restart automatically with Discord integration disabled.  
+1. Double-click the batch file or run it from a terminal.
+2. Press Enter 
+3. Wait and listen to the funny sounds  
+4. Go have fun instead of fixing a crappy program from a billion dollars company 
 
-> **Note:** Each time G Hub updates, it may reset this configuration. You will need to re-run this script after updates.
+> **Note:** The sound may be extremely loud, sorry lol.
 
 ---
 
@@ -49,20 +44,20 @@ Launches the G Hub application after making the changes.
 
 - Windows OS  
 - Logitech G Hub installed  
-- No additional software required; uses built-in CMD and PowerShell  
+- No additional software required; uses built-in CMD and your default media player  
 
 ---
 
 ## Safety Notes
 
-- The script only modifies the `applet_discord/config.json` file.  
-- All changes are local to your user account.  
-- The read-only attribute ensures changes persist even if G Hub tries to reset them.
+- May destroy your earing
+- You may die from laughter
+- You may start to enjoy the GHub software
 
 ---
 ## Support
 
-If you find this script useful, feel free to buy me a coffee or make a small donation:
+If you find this script useful, please donate to the OP, i'm just an idiot with too much free time:
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-yellow)](https://www.paypal.com/paypalme/dreadedcorpse)
 
@@ -70,5 +65,5 @@ If you find this script useful, feel free to buy me a coffee or make a small don
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the [LICENSE](LICENSE) file for details.
+I don't know bro i don't even own the sounds, please don't copyright claim my funny script.
 
