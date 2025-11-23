@@ -43,7 +43,7 @@ Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task 
 3. Wait and listen to the funny sounds.
 4. Go have fun instead of fixing a crappy program from a billion dollars company.
 
-> **Note:** The sound may be extremely loud, sorry lol.
+> **Note:** The sounds may be extremely loud, sorry lol.
 
 ---
 
