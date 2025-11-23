@@ -8,7 +8,7 @@ Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task 
 ## How It Works
 
 1. **Shuts down G Hub completely**  
-   The script kills `lghub.exe`, `lghub_agent.exe`, and `lghub_updater.exe` to ensure no processes are running before making changes.
+   The script kills `lghub.exe`, `lghub_agent.exe`, and `lghub_updater.exe` to ensure no processes are running.
 
 2. **Play stupid sounds effects**
    May get extremely annoying after a few times 
