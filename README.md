@@ -13,15 +13,15 @@ Ghub keep glitching out everytime i restarted my PC so i had to kill it in Task 
 
 4. **Play stupid sounds effects**
    
-   May get extremely annoying after a few times 
+   May get extremely annoying after a few times.
    
 5. **Restarts G Hub**
    
-   Yeah that pretty much it
+   Yeah that pretty much it.
 
 6. **Wait for the interface to fully load**
    
-   For 8 juicy seconds 
+   For 8 juicy seconds.
 
 5. **Kill the program and put it in background**
    
